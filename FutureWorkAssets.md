@@ -2,7 +2,7 @@
 
 ## About Me/Background
 
-My name is Adam Chhibbane, I am 31 years, a California native. My educational background is in the humanities (UCB, BA in Classical Languages), and my professional background is in hospitality, namely working as a Sommelier in fine dining --and therefore, a complete novice to programmming and finance.
+My name is Adam Chhibbane, I am 31 years, and a California native. My educational background is in the humanities (UCB, BA in Classical Languages), and my professional background is in hospitality, namely working as a Sommelier in fine dining --and therefore, a complete novice to programmming and finance.
 
 ### Career Goals
 
